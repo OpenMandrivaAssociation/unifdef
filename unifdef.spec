@@ -3,7 +3,7 @@
 
 Name: unifdef
 Version: 2.12
-Release: 1
+Release: 2
 Source0: http://dotat.at/prog/unifdef/unifdef-%{version}.tar.xz
 Summary: Tool to remove ifdef statements from C/C++ code
 URL: http://dotat.at/prog/unifdef/
